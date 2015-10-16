@@ -3,6 +3,16 @@
 /* ==========================================================================
    Abigail's custom styles - WOOHOO!
    ========================================================================== */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  font-family: 'Abril Fatface', serif;
+}
+.bubble-right, .bubble-left, .bubble-me {
+  font-family: 'Abril-Fatface', serif;
+}
+
 .bubble-right 
 {
 position: relative;
