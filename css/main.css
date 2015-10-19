@@ -6,8 +6,11 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
-h1, h2 {
+h1{
   font-family: 'Abril Fatface', serif;
+}
+h2 {
+  text-align: center;
 }
 .bubble-right, .bubble-left, .bubble-me {
   font-family: 'Abril-Fatface', serif;
